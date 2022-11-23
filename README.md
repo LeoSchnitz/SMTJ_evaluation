@@ -1,5 +1,6 @@
 # SMTJ_evaluation
 Analysis of superparamagnetic tunnel junction data, referring to following publication: ...
+Author: Leo S.
 
 
 1. Eavluation of nanosecond stochastic switching
